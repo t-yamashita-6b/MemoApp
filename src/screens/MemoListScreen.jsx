@@ -20,7 +20,7 @@ export default function MemoListScreen() {
 
 
       {/* Button */}
-      <CircleButton>+</CircleButton>
+      <CircleButton name="plus" />
       {/* /Button */}
 
     </View>
