@@ -11,7 +11,7 @@ export default function MemoList() {
             <Text style={styles.memoListItemDate}>2022年1月1日</Text>
           </View>
           <View>
-            <Feather name="x" size={16} color="#B0B0B00' />
+            <Feather name="x" size={16} color="#B0B0B0" />
           </View>
         </View>
 
